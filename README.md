@@ -2,7 +2,7 @@
 
 A compact mechanism that mounts on a bicycle wheel hub and converts the wheel's rotation into electricity to charge a power bank or phone on long rides.
 
-![Gear train](images/gear_train.png)
+![Gear train](image/gear_train.png)
 
 ## Problem
 
@@ -23,7 +23,7 @@ Goal: a low-cost, easy-to-install unit that generates useful power from an ordin
 
 The unit mounts on the wheel hub: a central bore fits around the hub axle and holds the housing stationary. The large drive gear carries several protrusions that engage the wheel's metal spokes, so the spinning wheel turns the gear while the housing stays fixed. A compound gear train steps the speed up 5×, driving a small DC generator, and a charging circuit conditions the output to USB.
 
-![Mounted on the wheel](images/mounted_on_wheel.png)
+![Mounted on the wheel](image/mounted_on_wheel.png)
 
 ▶ **Installation video:** [media/install.mp4](media/install.mp4)
 
@@ -41,7 +41,7 @@ The unit mounts on the wheel hub: a central bore fits around the hub axle and ho
 
 | CAD (closed) | CAD (gear train) |
 |---|---|
-| ![](images/cad_housing_closed.png) | ![](images/cad_gear_train.png) |
+| ![](image/cad_housing_closed.png) | ![](image/cad_gear_train.png) |
 
 Housing drawing: [cad/housing_drawing.png](cad/housing_drawing.png)
 
@@ -59,9 +59,9 @@ Housing drawing: [cad/housing_drawing.png](cad/housing_drawing.png)
 - Mounted the prototype on a bicycle wheel
 - Charged a phone while the wheel was turned by hand
 
-![Phone charging during test](images/phone_charging_test.png)
+![Phone charging during test](image/phone_charging_test.png)
 
-![Assembled housing](images/housing_closed.png)
+![Assembled housing](image/housing_closed.png)
 
 ## Results and limitations
 
@@ -79,3 +79,7 @@ Housing drawing: [cad/housing_drawing.png](cad/housing_drawing.png)
 ## Team
 
 Adib Saffarifard and Soheil Dehghani Firouzabadi, supervised by Dr. Mohsen Hamedi, Amirkabir University of Technology, 2025. All work was done jointly.
+
+## License
+
+MIT License — see [LICENSE](LICENSE).
